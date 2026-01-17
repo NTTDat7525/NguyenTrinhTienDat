@@ -1,2 +1,2 @@
-Họ và tên: Nguyễn Trịnh Tiến Đạt | 
-Nộp bài tập Lab2
+#LAB 02
+Nguyễn Trịnh Tiến Đạt
